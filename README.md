@@ -1,2 +1,0 @@
-# KGBeffects
-Minicraft plugin
